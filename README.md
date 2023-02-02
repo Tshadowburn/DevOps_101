@@ -7,14 +7,80 @@
 
 ![DevOps](assets/accuil_devops.jpg)
 
-Cet formations se presente dans un genre inovant: en accord avec les presept du DevOps, vous pourrez choisir les parcours qui vous ressemble en a, car oui il n'existe pas un seul ingenieur DevOps, le modele pluridisplinaire du devops pousse à une diversité de profil et est le symbole de la richesse de ce metier backbone de l'IT !
+Cet formations se presente dans un genre inovant: en accord avec les presept du DevOps, vous pourrez choisir le parcour qui vous ressemble, car oui il n'existe pas un seul ingenieur DevOps, le modele pluridisplinaire du devops pousse à une diversité de profil et est le symbole de la richesse de ce metier backbone de l'IT !
 
-|<img src="assets/auto.gif" width="60">|<img src="assets/infra.gif" width="50">|<img src="assets/metho1.gif" width="50"> |<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">|<img src="assets/secu.gif" width ="40" ><b>|<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40" ><b> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Automatisation|Infrastructure|Méthodologie|SRE|Securité|dev|
-|capable d'acompagner tout le process du build à la livraison, l'ingenieur ici se specialisera dans le packaging d'application de son déploiement dans les divers environement à l'aide d'outils d'automatisation|
+par consequent nous distinguerons 6 branches de talents DevOps sur lequels il y'a enormement de connaisances à aller cherhcer :) vous selectionnerer les cours en focntion des branches qui vous conviennent le mieux.
+
+## les specialisation
+
+### <img src="assets/auto.gif" width= 60px> **Automatisation**
+
+capable d'acompagner tout le process du build à la livraison, l'ingenieur ici se specialisera dans le packaging d'application, du déploiement, configuration dans les divers environement à l'aide d'outils d'automatisation
+
+#### **competences**
+
+- forte maitrise technique
+- adaptabilités
+
+#### **outils**
+
+- docker
+- gitlab
+- jenkins
+- ansible
+- ...
 
 ![ligne_break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### <img src="assets/infra.gif" width= 50px> **Infrastructure**
+
+le maitre des machines avec une vrai comprehension des divers architectures il saura choisir la plus adpaté au projet
+
+#### **Competences**
+
+#### **outils**
+
+![ligne_break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### <img src="assets/metho1.gif" width= 50px> **Methodologie**
+
+il saura garantir les bonnes pratiques DevOps, trouver les levier pour faire avancer le projet dans la bonne directions
+
+#### **Competences**
+
+#### **outils**
+
+![ligne_break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width= 50px> **SRE**
+
+un operationel à l'ancienne qui se modernise et permet de monitorer l'applicatif et l'infra et aussi permet de garantir une fiabilité du produit exemplaire
+
+#### **Competences**
+
+#### **outils**
+
+![ligne_break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### <img src="assets/secu.gif" width = 45px > **Securité**
+
+alias Mr robot, il aura pour mission de garantir l'implementation du zero trust, et le secure by design, il challengera et apportera un oeil averti aux questions de secu
+
+#### **Competences**
+
+#### **outils**
+
+![ligne_break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px > **Dev**
+
+le genie avec qui tout commence, il saura develloper l'applciation avec le maximum de modularité, en respectant toutes les bonnes pratiques de dev (SOLID ...), pensera recyclage, performance, et surtout le "prod ready mindset"
+
+#### **Competences**
+
+#### **outils**
+
+
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
